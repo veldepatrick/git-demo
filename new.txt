@@ -1,1 +1,3 @@
 #git-demo
+
+DIt is een eerste update van new.txt
